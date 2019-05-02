@@ -7,6 +7,6 @@ describe Dice do
       # dice = Dice.new
       # expect(subject).to respond_to(:roll)
     # end
-    it { is_expected.to respond_to(:roll) }
+    it { is_expected.to respond_to(:roll)  }
   end
 end
